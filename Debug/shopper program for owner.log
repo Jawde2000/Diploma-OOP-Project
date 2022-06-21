@@ -1,0 +1,3 @@
+﻿  shopper program for owner.cpp
+C:\Users\User\source\repos\shopper program for owner\shopper program for owner.cpp(1284,19): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  shopper program for owner.vcxproj -> C:\Users\User\source\repos\shopper program for owner\Debug\shopper program for owner.exe
